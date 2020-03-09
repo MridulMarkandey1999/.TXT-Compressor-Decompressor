@@ -19,6 +19,9 @@ Implemented Word-based lossless compression algorithm for text files by exploiti
 ## Data Flow Diagram:
 ![](/dfd_new.png)
 
+## Flowchart of the complete system:
+![](/4424bb08-5fbd-4b7c-bbb2-7ac37b6f4949.jpg)
+
 ## Steps to Execute program:
 1. Ubuntu or any Linux Operating system must be installed.
 
